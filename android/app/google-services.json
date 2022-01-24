@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175913085915",
+    "project_id": "mingle-chat-4e9ba",
+    "storage_bucket": "mingle-chat-4e9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175913085915:android:fdbe3324492e629dd955fe",
+        "android_client_info": {
+          "package_name": "com.example.mingle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175913085915-d5u667ntdp5prd87jfj3f79q868a5qb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mingle",
+            "certificate_hash": "2ed66f4b9fc86c3fc235c10e8078092c7a7740ef"
+          }
+        },
+        {
+          "client_id": "175913085915-hm461d63po2mo4k73bt2795nu966qkek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWusj23XC-POpZoM3GWdYWCUWRVBNG7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175913085915-hm461d63po2mo4k73bt2795nu966qkek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
